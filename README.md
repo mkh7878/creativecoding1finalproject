@@ -1,12 +1,11 @@
-# creativecoding1finalproject
-Final Project for Coding 5/12/2021
+Mae Horak Final Project Coding 1 
+"Model of The Solar System"
 
-MaeHorakFinalProject
+https://github.com/mkh7878/creativecoding1finalproject/upload/main
 
 https://mimicproject.com/code/9b7d58aa-caa0-db8c-fd24-b43cc46ca6cf
 
 https://www.youtube.com/watch?v=sSzD9KBq4MM&feature=youtu.be
-
 
 My final project is a model of the solar system created in THREE.js. I began this project as a homework assignment where I created a box with stars in the background, a sun in the centre and the earth orbiting the sun. The sun sits directly in the centre at (0,0,0) and this point is used as the point around which all the other planets orbit. The box in which the solar system exists is 100x100 units (leaving some space to expand the project in the future! 
 
