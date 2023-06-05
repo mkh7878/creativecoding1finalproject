@@ -1,7 +1,7 @@
 Mae Horak Final Project Coding 1
 "Model of The Solar System" 
 
-https://github.com/mkh7878/creativecoding1finalproject/upload/main
+https://github.com/mkh7878/creativecoding1finalproject/upload/main 
 
 https://mimicproject.com/code/9b7d58aa-caa0-db8c-fd24-b43cc46ca6cf
 
